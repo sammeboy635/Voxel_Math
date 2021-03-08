@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/main.dir/src/chunk.c.o CMakeFiles/main.dir/src/cube.c.o CMakeFiles/main.dir/src/main.c.o  -o main 
